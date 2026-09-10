@@ -4,7 +4,7 @@
 
 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 
-![mapscii](https://repo.x-cmd.io/mapscii.svg)
+![mapscii](https://repo.x-cmd.io/mapscii.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install mapscii
 
 - **最新版本**: `v0.3.1` (2020-02-18)
 - **最近提交**: 2023-01-10
-- **发布时间**: 2020-02-18T20:44:29Z
 
 ## 流行度
 
-- **Star**: 9,232 · **Fork**: 298 · **开放 issue**: 83 · **贡献者**: 11
+- **Star**: 9,233 · **Fork**: 298 · **开放 issue**: 83 · **贡献者**: 11
 
 ## 累计统计
 
@@ -70,4 +69,4 @@ mapscii 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:10:26Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:01:56Z._
