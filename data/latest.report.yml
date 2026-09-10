@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.1"
   latestRelease: "v0.3.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:10:21Z
+  collectedAt: 2026-09-10T17:01:47Z
 timeline:
   created: 2016-09-18
   lastCommit: 2023-01-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-02-18
   lastPrerelease: 
 popularity:
-  star: 9232
+  star: 9233
   watcher: 115
   fork: 298
   release: 8
@@ -84,7 +84,7 @@ total:
   commit: 290
 ---
 path: /home/runner/.x-repo/github.com/rastapasta/mapscii
-collectedAt: 2026-09-10T05:10:22Z
+collectedAt: 2026-09-10T17:01:49Z
 loc:
   Json:
     code: 9141
