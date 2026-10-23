@@ -46,22 +46,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,263 · **Forks**: 298 · **Open issues**: 83 · **Contributors**: 11
+- **Stars**: 9,263 · **Forks**: 298 · **Open issues**: 82 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 52 · **Open PRs**: 11 · **Closed issues**: 40 · **Open issues**: 43 · **Commits**: 290
+- **Releases**: 8 · **Merged PRs**: 52 · **Open PRs**: 11 · **Closed issues**: 40 · **Open issues**: 42 · **Commits**: 290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last720d | 2024-11-01 | 0 | 0 | 5 | 2 | 6 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last720d | 2024-11-02 | 0 | 0 | 5 | 2 | 5 | 0 |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/mapscii). **7** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.3.1` | ✅ latest |
+| Nix unstable | `0.3.1` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +81,4 @@ Install metadata for mapscii lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:09:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:11:41Z._
