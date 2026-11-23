@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,288 · **Forks**: 297 · **Open issues**: 82 · **Contributors**: 11
+- **Stars**: 9,288 · **Forks**: 298 · **Open issues**: 82 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 52 · **Open PRs**: 14 · **Closed issues**: 40 · **Open issues**: 42 · **Commits**: 290
+- **Releases**: 8 · **Merged PRs**: 52 · **Open PRs**: 15 · **Closed issues**: 40 · **Open issues**: 42 · **Commits**: 290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 0 | 0 | 6 | 0 | 1 | 0 |
-| 360d | 2025-11-27 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last720d | 2024-12-02 | 0 | 0 | 7 | 2 | 4 | 0 |
+| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 0 | 0 | 7 | 0 | 1 | 0 |
+| 360d | 2025-11-28 | 0 | 0 | 7 | 0 | 3 | 0 |
+| last720d | 2024-12-03 | 0 | 0 | 8 | 2 | 4 | 0 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for mapscii lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:10:04Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:42:19Z._
