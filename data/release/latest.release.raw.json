@@ -43,8 +43,8 @@
   "body": "* Kudos to @dogabudak for fixing the upstream [term-mouse](https://github.com/CoderPuppy/term-mouse) to let MapSCII correctly handle escape key presses",
   "reactions": {
     "url": "https://api.github.com/repos/rastapasta/mapscii/releases/23782134/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,

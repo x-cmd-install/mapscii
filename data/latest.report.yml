@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.1"
   latestRelease: "v0.3.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:37:38Z
+  collectedAt: 2026-11-28T08:12:18Z
 timeline:
   created: 2016-09-18
   lastCommit: 2023-01-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-02-18
   lastPrerelease: 
 popularity:
-  star: 9293
+  star: 9294
   watcher: 108
   fork: 299
   release: 8
@@ -28,7 +28,7 @@ language:
 totalBytes: 49326
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 2
@@ -36,7 +36,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 6
@@ -44,7 +44,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 6
@@ -52,7 +52,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 7
@@ -60,7 +60,7 @@ recent:
     openIssue: 1
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 7
@@ -68,7 +68,7 @@ recent:
     openIssue: 3
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 8
@@ -84,7 +84,7 @@ total:
   commit: 290
 ---
 path: /home/runner/.x-repo/github.com/rastapasta/mapscii
-collectedAt: 2026-11-27T09:37:39Z
+collectedAt: 2026-11-28T08:12:19Z
 loc:
   Json:
     code: 9141
@@ -202,4 +202,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
-{"id":23782134,"author":{"login":"rastapasta","id":1259904,"node_id":"MDQ6VXNlcjEyNTk5MDQ=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTIzNzgyMTM0","tag_name":"v0.3.1","target_commitish":"master","name":"Upstream fix for escape key handling","draft":false,"immutable":false,"prerelease":false,"created_at":"2020-02-18T20:42:14Z","updated_at":"2020-02-18T20:44:29Z","published_at":"2020-02-18T20:44:29Z","assets":[],"body":"* Kudos to @dogabudak for fixing the upstream [term-mouse](https://github.com/CoderPuppy/term-mouse) to let MapSCII correctly handle escape key presses","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":23782134,"author":{"login":"rastapasta","id":1259904,"node_id":"MDQ6VXNlcjEyNTk5MDQ=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTIzNzgyMTM0","tag_name":"v0.3.1","target_commitish":"master","name":"Upstream fix for escape key handling","draft":false,"immutable":false,"prerelease":false,"created_at":"2020-02-18T20:42:14Z","updated_at":"2020-02-18T20:44:29Z","published_at":"2020-02-18T20:44:29Z","assets":[],"body":"* Kudos to @dogabudak for fixing the upstream [term-mouse](https://github.com/CoderPuppy/term-mouse) to let MapSCII correctly handle escape key presses","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
